@@ -10,5 +10,5 @@ I'm just messing around with the idea of a chess engine written in go. I think I
 To build the executable run:
 
 ```
-go build ./...
+go build cmd/piecemeal/piecemeal.go
 ```
